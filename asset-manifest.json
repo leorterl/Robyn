@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Robyn/static/css/main.e6c13ad2.css",
-    "main.js": "/Robyn/static/js/main.af47d3d5.js",
+    "main.js": "/Robyn/static/js/main.de59a4e6.js",
     "static/js/453.4cc31ab8.chunk.js": "/Robyn/static/js/453.4cc31ab8.chunk.js",
     "index.html": "/Robyn/index.html",
     "main.e6c13ad2.css.map": "/Robyn/static/css/main.e6c13ad2.css.map",
-    "main.af47d3d5.js.map": "/Robyn/static/js/main.af47d3d5.js.map",
+    "main.de59a4e6.js.map": "/Robyn/static/js/main.de59a4e6.js.map",
     "453.4cc31ab8.chunk.js.map": "/Robyn/static/js/453.4cc31ab8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.af47d3d5.js"
+    "static/js/main.de59a4e6.js"
   ]
 }
